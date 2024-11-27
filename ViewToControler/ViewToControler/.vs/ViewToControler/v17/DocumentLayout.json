@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\viewtocontroler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|solutionrelative:viewtocontroler\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|solutionrelative:ViewToControler\\Web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|c:\\users\\manish\\desktop\\viewtocontroler\\viewtocontroler\\viewtocontroler\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55390A0E-2494-4005-8643-8F00D4CE69C0}|ViewToControler\\ViewToControler.csproj|solutionrelative:viewtocontroler\\views\\home\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewToControler\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewToControler\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:13:50.511Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Web.config",
+              "RelativeDocumentMoniker": "ViewToControler\\Web.config",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Web.config",
+              "RelativeToolTip": "ViewToControler\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-13T08:45:08.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Views\\Home\\Registration.cshtml",
+              "RelativeDocumentMoniker": "ViewToControler\\Views\\Home\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\ViewToControler\\ViewToControler\\ViewToControler\\Views\\Home\\Registration.cshtml",
+              "RelativeToolTip": "ViewToControler\\Views\\Home\\Registration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T06:19:17.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

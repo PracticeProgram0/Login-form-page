@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|c:\\users\\manish\\desktop\\project loginform\\login\\login\\admin_home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|solutionrelative:login\\admin_home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|C:\\Users\\manish\\Desktop\\project loginform\\Login\\login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|solutionrelative:login\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|c:\\users\\manish\\desktop\\project loginform\\login\\login\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|solutionrelative:login\\registration.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|c:\\users\\manish\\desktop\\project loginform\\login\\login\\admin_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|solutionrelative:login\\admin_home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|C:\\Users\\manish\\Desktop\\project loginform\\Login\\login\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|solutionrelative:login\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|C:\\Users\\manish\\Desktop\\project loginform\\Login\\login\\submit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|solutionrelative:login\\submit.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|C:\\Users\\manish\\Desktop\\project loginform\\Login\\login\\submit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{D1FC3936-11EC-41D3-B53A-7161DB2E1CA1}|Login\\Login.csproj|solutionrelative:login\\submit.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin_home.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\admin_home.aspx.cs",
+              "RelativeDocumentMoniker": "Login\\admin_home.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\admin_home.aspx.cs",
+              "RelativeToolTip": "Login\\admin_home.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwDIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T08:39:58.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "admin_home.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\admin_home.aspx",
+              "RelativeDocumentMoniker": "Login\\admin_home.aspx",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\admin_home.aspx",
+              "RelativeToolTip": "Login\\admin_home.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-24T07:53:17.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "Login\\Login.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\Login.aspx.cs",
+              "RelativeToolTip": "Login\\Login.aspx.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:50:20.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "submit.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\submit.aspx.cs",
+              "RelativeDocumentMoniker": "Login\\submit.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\submit.aspx.cs",
+              "RelativeToolTip": "Login\\submit.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T08:20:26.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Registration.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\Registration.aspx.cs",
+              "RelativeDocumentMoniker": "Login\\Registration.aspx.cs",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\Registration.aspx.cs",
+              "RelativeToolTip": "Login\\Registration.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T07:23:48.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "submit.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\submit.aspx",
+              "RelativeDocumentMoniker": "Login\\submit.aspx",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\submit.aspx",
+              "RelativeToolTip": "Login\\submit.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-23T06:58:33.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.aspx",
+              "DocumentMoniker": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\Registration.aspx",
+              "RelativeDocumentMoniker": "Login\\Registration.aspx",
+              "ToolTip": "C:\\Users\\manish\\Desktop\\project loginform\\Login\\Login\\Registration.aspx",
+              "RelativeToolTip": "Login\\Registration.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-08-23T06:53:32.839Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
